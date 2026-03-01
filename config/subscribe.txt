@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u
 https://iptv-org.github.io/iptv/countries/cn.m3u
+https://iptv-org.github.io/iptv/index.m3u
 
 
 
