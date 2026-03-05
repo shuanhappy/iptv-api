@@ -1,7 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
-https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u
-https://iptv-org.github.io/iptv/countries/cn.m3u
-https://iptv-org.github.io/iptv/index.m3u
+https://live.264788.xyz/sub/02RuLEoiT6NmGbC0EA76bnWrjnaMgi
+https://taoiptv.com/lives/41024.txt?token=euai69zu517el4jf
+https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+http://tv123.vvvv.ee/tv.m3u
 
 
 
