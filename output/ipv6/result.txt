@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-06 18:25:15,http://tv123.vvvv.ee/live.php/?ch=a6c3d061395
+2026-03-23 19:22:42,http://tv123.vvvv.ee/live.php/?ch=a6c3d061395
 
 📺央视频道,#genre#
 CCTV-1,http://tv123.vvvv.ee/live.php/?ch=a6c3d061395
@@ -11,10 +11,12 @@ CCTV-2,http://tv123.vvvv.ee/live.php/?ch=0fc0cd33736
 CCTV-2,http://tv123.vvvv.ee/live.php/?ch=5f4c278a1246
 CCTV-2,http://tv123.vvvv.ee/live.php/?ch=e4b40d79729
 CCTV-2,http://tv123.vvvv.ee/live.php/?ch=30a3cba21239
+CCTV-2,http://tv123.vvvv.ee/live.php/?ch=4a3f151a552
 CCTV-3,http://tv123.vvvv.ee/live.php/?ch=9d88b36b737
 CCTV-3,http://tv123.vvvv.ee/live.php/?ch=2bf46ec61247
 CCTV-3,http://tv123.vvvv.ee/live.php/?ch=a5bf8453730
 CCTV-3,http://tv123.vvvv.ee/live.php/?ch=12442b0a1240
+CCTV-3,http://tv123.vvvv.ee/live.php/?ch=7032cd16553
 CCTV-4,http://tv123.vvvv.ee/live.php/?ch=abcdc5b0738
 CCTV-4,http://tv123.vvvv.ee/live.php/?ch=cfda71ab739
 CCTV-4,http://tv123.vvvv.ee/live.php/?ch=6c144ce01248
@@ -68,6 +70,7 @@ CCTV-14,http://tv123.vvvv.ee/live.php/?ch=99f394ee749
 CCTV-14,http://tv123.vvvv.ee/live.php/?ch=395971fa1257
 CCTV-14,http://tv123.vvvv.ee/live.php/?ch=436d8b4b742
 CCTV-14,http://tv123.vvvv.ee/live.php/?ch=a4b65a6b1250
+CCTV-14,http://tv123.vvvv.ee/live.php/?ch=c29344f7556
 CCTV-15,http://tv123.vvvv.ee/live.php/?ch=28ddbeaf750
 CCTV-15,http://tv123.vvvv.ee/live.php/?ch=52d9b4c91258
 CCTV-15,http://tv123.vvvv.ee/live.php/?ch=6b1e5c81743
@@ -92,6 +95,7 @@ CCTV-17,http://tv123.vvvv.ee/live.php/?ch=de2ca70c745
 湖南卫视,http://tv123.vvvv.ee/live.php/?ch=87b8aa521259
 湖南卫视,http://tv123.vvvv.ee/live.php/?ch=9f1e58e8747
 湖南卫视,http://tv123.vvvv.ee/live.php/?ch=7d67b9da1252
+湖南卫视,http://tv123.vvvv.ee/live.php/?ch=17110558560
 北京卫视,http://tv123.vvvv.ee/live.php/?ch=4a412c6c758
 北京卫视,http://tv123.vvvv.ee/live.php/?ch=73701cb01267
 北京卫视,http://tv123.vvvv.ee/live.php/?ch=fafd21e7751
@@ -132,6 +136,7 @@ CCTV-17,http://tv123.vvvv.ee/live.php/?ch=de2ca70c745
 广东珠江,http://tv123.vvvv.ee/live.php/?ch=a201fe87755
 广东体育,http://tv123.vvvv.ee/live.php/?ch=f56fb4f1398
 广东体育,http://tv123.vvvv.ee/live.php/?ch=39c5e6b4396
+广东体育,http://tv123.vvvv.ee/live.php/?ch=4733fc25400
 广东卫视,http://tv123.vvvv.ee/live.php/?ch=b8468d1a760
 广东卫视,http://tv123.vvvv.ee/live.php/?ch=525837cc1266
 广东卫视,http://tv123.vvvv.ee/live.php/?ch=4443f259753
